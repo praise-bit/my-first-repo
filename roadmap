@@ -1,0 +1,35 @@
+# 🛣️ My Web3 Developer Roadmap
+
+This file tracks my learning journey and goals as I become a full stack Web3 developer.
+
+---
+
+## ✅ Currently Learning
+- [x] Git & GitHub basics
+- [ ] HTML, CSS, JavaScript refresh
+- [ ] Web3 fundamentals (wallets, nodes, RPCs)
+- [ ] Solidity basics
+- [ ] Smart contract deployment (Remix → testnet)
+
+---
+
+## 📚 Upcoming Topics
+- [ ] Hardhat/Foundry setup
+- [ ] Full-stack dApp (smart contract + frontend)
+- [ ] Chainlink oracles
+- [ ] Token standards (ERC-20, ERC-721)
+- [ ] IPFS + Metadata
+
+---
+
+## 🎯 Long-Term Goals
+- Build 3+ projects
+- Deploy a real dApp on mainnet
+- Contribute to an open-source project
+- Get freelance or internship opportunity
+- Create my dev portfolio website
+
+---
+
+## 📝 Notes
+This file will be updated as I learn. Stay tuned.
